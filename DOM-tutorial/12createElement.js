@@ -9,6 +9,7 @@
 // newTodoItem.append(newTodoItemText);
 
 // newTodoItem.textContent = "Teach students";
+
 // const todoList = document.querySelector(".todo-list");
 // todoList.append(newTodoItem); // append add at last
 // todoList.prepend(newTodoItem); // prepend add at start

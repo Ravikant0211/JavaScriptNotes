@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // use const for creating array
 
 // const pi = 3.14;
@@ -11,17 +10,4 @@ fruits.push("Banana"); //here we are not changing the address but value in heap.
 
 // fruits = ["apple", "mango", "banana"]; // here i am trying to change the object
 // Assignment to constant variable.
-=======
-// use const for creating array
-
-// const pi = 3.14;
-// pi = 3; // Uncaught TypeError: Assignment to constant variable.
-// console.log(pi);
-
-// heap memory ["apple", "mango"] address: 0x11 (suppose)
-const fruits = ["apple", "mango"]; //address: 0x11 (suppose)
-fruits.push("Banana"); //here we are not changing the address but value in heap
-// fruits = ["apple", "mango", "banana"]; // here i am trying to change the object
-// Assignment to constant variable.
->>>>>>> 245506c0649daf8040928746cd97fa789670a2a6
 console.log(fruits);

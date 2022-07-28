@@ -6,6 +6,8 @@ const band = {
     year: 1968,
     anotherFamousSong: "kashmir"
 };
+
+
 // const bandName =  band.bandName;
 // const famousSong = band.famousSong;
 // console.log(bandName, famousSong);

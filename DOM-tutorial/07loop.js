@@ -25,6 +25,7 @@
 //=================== forEach method ===================
 // we can use forEach method on array objects not on HTML Collections
 // so, to use this method on HTML Collections, lets first convert HTML Collections to Array
+
 // let navItems = document.getElementsByTagName("a");
 // navItems = Array.from(navItems);
 // navItems.forEach((navItem) =>{

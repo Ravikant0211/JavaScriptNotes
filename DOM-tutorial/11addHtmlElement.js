@@ -7,6 +7,7 @@ const todoList = document.querySelector(".todo-list");
 
 
 // when you should use it, when you should not.
+
 // use it when you have to change entire html element.
 // but if you want to change a part of the html element please dont use this way
 // beacuse this creates performance issues.
